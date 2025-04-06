@@ -1,0 +1,20 @@
+2025-04-05 20:59:07.977 [warning] /home/gitpod/.ssh/config: ENOENT: no such file or directory, open '/home/gitpod/.ssh/config'
+2025-04-05 20:59:07.977 [info] [Activation] Extension version: 0.106.0
+2025-04-05 20:59:10.139 [info] [Activation] Looking for git repository
+2025-04-05 20:59:10.139 [info] [Activation] Found 0 repositories during activation
+2025-04-05 20:59:10.139 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-04-05 20:59:10.180 [info] [GitAPI] Registering git provider
+2025-04-05 20:59:10.180 [info] [Review+0] Validate state in progress
+2025-04-05 20:59:10.180 [info] [Review+0] Validating state...
+2025-04-05 20:59:10.180 [info] [Review+1] Validate state in progress
+2025-04-05 20:59:10.180 [info] [Review+1] Validating state...
+2025-04-05 20:59:10.330 [info] [FolderRepositoryManager+0] Found GitHub remote for folder /workspace/rustpad/rustpad
+2025-04-05 20:59:10.331 [info] [FolderRepositoryManager+1] Found GitHub remote for folder /workspace/rustpad
+2025-04-05 20:59:10.333 [info] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-04-05 20:59:10.333 [info] [FolderRepositoryManager+1] Trying to use globalState for assignableUsers.
+2025-04-05 20:59:10.347 [info] [Review+0] No matching pull request metadata found locally for current branch main
+2025-04-05 20:59:10.348 [info] [Review+0] No matching pull request metadata found on GitHub for current branch main
+2025-04-05 20:59:10.349 [info] [Review+1] No matching pull request metadata found locally for current branch main
+2025-04-05 20:59:10.349 [info] [Review+1] No matching pull request metadata found on GitHub for current branch main
+2025-04-05 20:59:10.444 [info] [FolderRepositoryManager+0] GlobalState does not exist for assignableUsers.
+2025-04-05 20:59:10.445 [info] [FolderRepositoryManager+1] GlobalState does not exist for assignableUsers.

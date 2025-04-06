@@ -1,0 +1,16 @@
+2025-04-06 17:27:21.939 [info] 
+
+
+
+
+2025-04-06 17:27:21.959 [info] Extension host agent started.
+2025-04-06 17:27:22.033 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2025-04-06 17:27:22.034 [info] Extension 'github.vscode-pull-request-github' v0.108.0 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'github.vscode-pull-request-github@1.2.3'.
+2025-04-06 17:27:22.043 [info] Marked extension as removed github.vscode-pull-request-github-0.106.0
+2025-04-06 17:27:22.054 [info] Deleted marked for removal extension from disk github.vscode-pull-request-github /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0-universal
+2025-04-06 17:27:23.733 [info] [192.168.144.202][61e1b079][ManagementConnection] New connection established.
+2025-04-06 17:27:24.370 [info] [192.168.23.138][3d5afcbd][ExtensionHostConnection] New connection established.
+2025-04-06 17:27:24.673 [info] [192.168.23.138][3d5afcbd][ExtensionHostConnection] <534> Launched Extension Host Process.
+2025-04-06 17:41:39.984 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-04-06 18:24:40.687 [info] [192.168.23.138][3d5afcbd][ExtensionHostConnection] The client has reconnected.
+2025-04-06 18:24:41.207 [info] [192.168.23.138][61e1b079][ManagementConnection] The client has reconnected.

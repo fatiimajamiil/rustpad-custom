@@ -1,0 +1,1 @@
+cargo watch -x run && npm run dev

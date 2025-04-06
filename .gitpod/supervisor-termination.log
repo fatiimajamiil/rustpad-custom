@@ -1,0 +1,30 @@
+[510ns] Shutting down all processes 
+[882.61µs] Terminating process supervisor with PID 35 (state: S, cmdlind: [supervisor run] <nil>). 
+[16.054867ms] Terminating main process errored: waitid: no child processes 
+[16.366596ms] Terminating process esbuild with PID 1196 (state: S, cmdlind: [/workspace/rustpad/node_modules/@esbuild/linux-x64/bin/esbuild --service=0.24.2 --ping] <nil>). 
+[16.427467ms] Terminating process node with PID 471 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=fileWatcher] <nil>). 
+[16.459376ms] Process sh with PID 313 is a zombie, skipping termination. 
+[16.475827ms] Terminating main process errored: waitid: no child processes 
+[16.508467ms] Terminating process node with PID 854 (state: S, cmdlind: [/ide/node /ide/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=534] <nil>). 
+[16.514947ms] Terminating process cargo-watch with PID 300 (state: D, cmdlind: [] <nil>). 
+[16.567347ms] Terminating process node with PID 72 (state: S, cmdlind: [/ide/node /ide/out/server-main.js --log=info --install-builtin-extension gitpod.gitpod-theme --install-builtin-extension github.vscode-pull-request-github --port 23000 --host 0.0.0.0 --without-connection-token --server-data-dir /workspace/.vscode-remote --do-not-sync --start-server] <nil>). 
+[16.562616ms] Terminating main process errored: waitid: no child processes 
+[16.613807ms] Terminating process sh with PID 1184 (state: S, cmdlind: [sh -c vite] <nil>). 
+[16.627396ms] Terminating process npm run dev with PID 1173 (state: S, cmdlind: [npm run dev] <nil>). 
+[16.648256ms] Terminating process node with PID 552 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=ptyHost --logsPath /workspace/.vscode-remote/data/logs/20250406T172721] <nil>). 
+[16.697296ms] Terminating process bash with PID 563 (state: S, cmdlind: [/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh] <nil>). 
+[16.722607ms] Terminating process bash with PID 957 (state: S, cmdlind: [/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh] <nil>). 
+[16.729656ms] Terminating process node with PID 1185 (state: S, cmdlind: [node /workspace/rustpad/node_modules/.bin/vite] <nil>). 
+[16.732916ms] Terminating process node with PID 534 (state: R, cmdlind: [/ide/node --dns-result-order=ipv4first /ide/out/bootstrap-fork --type=extensionHost --transformURIs --useHostProxy=false] <nil>). 
+[16.793896ms] Terminating process node with PID 801 (state: S, cmdlind: [/ide/node /ide/extensions/redhat.vscode-yaml/dist/languageserver.js --node-ipc --clientProcessId=534] <nil>). 
+[17.148827ms] Terminating main process errored: waitid: no child processes 
+[17.291376ms] Terminating main process errored: waitid: no child processes 
+[17.399556ms] Terminating main process errored: waitid: no child processes 
+[17.574436ms] Terminating main process errored: waitid: no child processes 
+[17.679466ms] Terminating main process errored: waitid: no child processes 
+[17.883986ms] Terminating main process errored: waitid: no child processes 
+[18.522256ms] Terminating main process errored: waitid: no child processes 
+[18.823376ms] Terminating main process errored: waitid: no child processes 
+[23.140155ms] Terminating main process errored: waitid: no child processes 
+[48.081871ms] Terminating main process errored: waitid: no child processes 
+[49.122841ms] Finished shutting down all processes. 

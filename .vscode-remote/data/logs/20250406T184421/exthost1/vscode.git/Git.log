@@ -1,0 +1,69 @@
+2025-04-06 18:44:38.871 [info] [main] Log level: Info
+2025-04-06 18:44:38.871 [info] [main] Validating found git in: "git"
+2025-04-06 18:44:38.871 [info] [main] Using git "2.48.1" from "git"
+2025-04-06 18:44:38.871 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-06 18:44:38.871 [info] > git rev-parse --show-toplevel [39ms]
+2025-04-06 18:44:38.871 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2025-04-06 18:44:38.871 [info] [Model][openRepository] Opened repository: /workspace/rustpad
+2025-04-06 18:44:38.871 [info] > git rev-parse --show-toplevel [13ms]
+2025-04-06 18:44:38.871 [info] > git config --get commit.template [22ms]
+2025-04-06 18:44:38.871 [info] > git rev-parse --show-toplevel [21ms]
+2025-04-06 18:44:38.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [161ms]
+2025-04-06 18:44:38.871 [info] > git rev-parse --show-toplevel [31ms]
+2025-04-06 18:44:38.871 [info] > git status -z -uall [18ms]
+2025-04-06 18:44:38.871 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2025-04-06 18:44:38.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-04-06 18:44:38.871 [info] > git rev-parse --show-toplevel [31ms]
+2025-04-06 18:44:38.871 [info] > git config --get commit.template [14ms]
+2025-04-06 18:44:38.871 [info] > git config --get --local branch.main.vscode-merge-base [9ms]
+2025-04-06 18:44:38.871 [info] > git rev-parse --show-toplevel [17ms]
+2025-04-06 18:44:38.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [13ms]
+2025-04-06 18:44:38.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [35ms]
+2025-04-06 18:44:38.871 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-06 18:44:38.871 [info] > git merge-base refs/heads/main refs/remotes/origin/main [24ms]
+2025-04-06 18:44:38.871 [info] > git rev-parse --show-toplevel [10ms]
+2025-04-06 18:44:38.871 [info] > git diff --name-status -z --diff-filter=ADMR 7f7ef1f4fa808a9bf082b118dfcf03f5fd165ad7...refs/remotes/origin/main [16ms]
+2025-04-06 18:44:38.871 [info] > git status -z -uall [13ms]
+2025-04-06 18:44:38.871 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+2025-04-06 18:44:38.871 [info] > git rev-parse --show-toplevel [5ms]
+2025-04-06 18:44:38.871 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-06 18:44:39.378 [info] > git check-ignore -v -z --stdin [2ms]
+2025-04-06 18:44:40.211 [info] > git config --get --local branch.main.github-pr-owner-number [22ms]
+2025-04-06 18:44:40.211 [warning] [Git][config] git config failed: Failed to execute git
+2025-04-06 18:47:59.112 [info] > git config --get commit.template [6ms]
+2025-04-06 18:47:59.113 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-04-06 18:47:59.124 [info] > git status -z -uall [6ms]
+2025-04-06 18:47:59.125 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-04-06 18:48:04.140 [info] > git config --get commit.template [6ms]
+2025-04-06 18:48:04.141 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-04-06 18:48:04.152 [info] > git status -z -uall [6ms]
+2025-04-06 18:48:04.153 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-04-06 18:48:45.848 [info] > git check-ignore -v -z --stdin [2ms]
+2025-04-06 18:50:22.955 [info] > git check-ignore -v -z --stdin [3ms]
+2025-04-06 19:07:12.047 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/workspace/rustpad/.git/HEAD'
+2025-04-06 19:07:12.056 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/workspace/rustpad/.git/config'
+2025-04-06 19:07:12.063 [info] > git symbolic-ref --short HEAD [16ms]
+2025-04-06 19:07:12.063 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-06 19:07:12.070 [info] > git config --get commit.template [7ms]
+2025-04-06 19:07:12.070 [info] > git remote --verbose [14ms]
+2025-04-06 19:07:12.070 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-06 19:07:12.144 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/workspace/rustpad/.git/HEAD'
+2025-04-06 19:07:12.150 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/workspace/rustpad/.git/config'
+2025-04-06 19:07:12.155 [info] > git rev-parse HEAD [86ms]
+2025-04-06 19:07:12.155 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-06 19:07:12.156 [info] > git remote --verbose [6ms]
+2025-04-06 19:07:12.156 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-06 19:07:12.157 [info] > git symbolic-ref --short HEAD [12ms]
+2025-04-06 19:07:12.157 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-06 19:07:12.163 [info] > git config --get commit.template [8ms]
+2025-04-06 19:07:12.164 [info] > git rev-parse HEAD [2ms]
+2025-04-06 19:07:12.164 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-04-06 19:07:13.957 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-06 19:07:13.957 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

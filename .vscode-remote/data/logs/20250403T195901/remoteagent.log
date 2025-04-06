@@ -1,0 +1,67 @@
+2025-04-03 19:59:01.305 [info] 
+
+
+
+
+2025-04-03 19:59:01.324 [info] Extension host agent started.
+2025-04-03 19:59:01.345 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2025-04-03 19:59:01.454 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2025-04-03 19:59:01.476 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2025-04-03 19:59:03.050 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2025-04-03 19:59:03.073 [info] Getting Manifest... github.vscode-pull-request-github
+2025-04-03 19:59:03.386 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":true,"installPreReleaseVersion":false,"isBuiltin":true,"installGivenVersion":false,"isApplicationScoped":true,"profileLocation":{"$mid":1,"fsPath":"/workspace/.vscode-remote/extensions/extensions.json","external":"file:///workspace/.vscode-remote/extensions/extensions.json","path":"/workspace/.vscode-remote/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.98.2","date":"2025-03-20T11:43:52.411Z"}}
+2025-04-03 19:59:04.248 [info] [192.168.172.203][5d1350dd][ManagementConnection] New connection established.
+2025-04-03 19:59:04.690 [info] [192.168.172.203][554f6b50][ExtensionHostConnection] New connection established.
+2025-04-03 19:59:04.696 [info] [192.168.172.203][554f6b50][ExtensionHostConnection] <516> Launched Extension Host Process.
+2025-04-03 19:59:05.002 [error] Could not load vsce-sign module Cannot find package 'node-ovsx-sign' imported from /ide/out/server-main.js
+2025-04-03 19:59:05.002 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2025-04-03 19:59:05.086 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0-universal: github.vscode-pull-request-github
+2025-04-03 19:59:05.093 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.106.0-universal
+2025-04-03 19:59:05.108 [info] Extension installed successfully: github.vscode-pull-request-github file:///workspace/.vscode-remote/extensions/extensions.json
+2025-04-03 19:59:05.110 [info] Extension 'github.vscode-pull-request-github' v0.106.0 was successfully installed.
+2025-04-03 20:20:28.217 [info] [192.168.23.138][1bd061e0][ManagementConnection] New connection established.
+2025-04-03 20:20:28.535 [info] [192.168.23.138][4499d16a][ExtensionHostConnection] New connection established.
+2025-04-03 20:20:28.543 [info] [192.168.23.138][4499d16a][ExtensionHostConnection] <9558> Launched Extension Host Process.
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 40
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 41
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 42
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 43
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 44
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 45
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 46
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 47
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 48
+2025-04-03 20:20:29.146 [warning] RequestStore#acceptReply was called without receiving a matching request 49
+2025-04-03 20:20:29.147 [warning] RequestStore#acceptReply was called without receiving a matching request 50
+2025-04-03 20:20:29.147 [warning] RequestStore#acceptReply was called without receiving a matching request 51
+2025-04-03 20:20:29.147 [warning] RequestStore#acceptReply was called without receiving a matching request 52
+2025-04-03 20:20:30.721 [warning] RequestStore#acceptReply was called without receiving a matching request 53
+2025-04-03 20:20:30.721 [warning] RequestStore#acceptReply was called without receiving a matching request 54
+2025-04-03 20:20:30.721 [warning] RequestStore#acceptReply was called without receiving a matching request 55
+2025-04-03 20:20:30.722 [warning] RequestStore#acceptReply was called without receiving a matching request 56
+2025-04-03 20:20:30.722 [warning] RequestStore#acceptReply was called without receiving a matching request 57
+2025-04-03 20:20:30.722 [warning] RequestStore#acceptReply was called without receiving a matching request 58
+2025-04-03 20:20:30.722 [warning] RequestStore#acceptReply was called without receiving a matching request 59
+2025-04-03 20:20:30.722 [warning] RequestStore#acceptReply was called without receiving a matching request 60
+2025-04-03 20:20:30.722 [warning] RequestStore#acceptReply was called without receiving a matching request 61
+2025-04-03 20:20:30.723 [warning] RequestStore#acceptReply was called without receiving a matching request 62
+2025-04-03 20:20:30.723 [warning] RequestStore#acceptReply was called without receiving a matching request 63
+2025-04-03 20:20:30.723 [warning] RequestStore#acceptReply was called without receiving a matching request 64
+2025-04-03 20:20:30.723 [warning] RequestStore#acceptReply was called without receiving a matching request 65
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 66
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 67
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 68
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 69
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 70
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 71
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 72
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 73
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 74
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 75
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 76
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 77
+2025-04-03 20:20:32.825 [warning] RequestStore#acceptReply was called without receiving a matching request 78
+2025-04-03 20:20:50.119 [info] [192.168.23.138][1bd061e0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-03 20:20:50.175 [info] [192.168.23.138][4499d16a][ExtensionHostConnection] <9558> Extension Host Process exited with code: 0, signal: null.
+2025-04-03 20:38:39.665 [info] [192.168.172.203][5d1350dd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-03 20:38:39.723 [info] [192.168.172.203][554f6b50][ExtensionHostConnection] <516> Extension Host Process exited with code: 0, signal: null.

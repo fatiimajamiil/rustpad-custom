@@ -1,0 +1,13 @@
+2025-04-06 18:44:21.698 [info] 
+
+
+
+
+2025-04-06 18:44:21.727 [info] Extension host agent started.
+2025-04-06 18:44:21.790 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2025-04-06 18:44:21.790 [info] Extension 'github.vscode-pull-request-github' v0.108.0 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'github.vscode-pull-request-github@1.2.3'.
+2025-04-06 18:44:34.630 [info] [192.168.172.203][18d9e724][ManagementConnection] New connection established.
+2025-04-06 18:44:35.082 [info] [192.168.23.138][629e05b3][ExtensionHostConnection] New connection established.
+2025-04-06 18:44:35.407 [info] [192.168.23.138][629e05b3][ExtensionHostConnection] <524> Launched Extension Host Process.
+2025-04-06 19:07:10.922 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-04-06 19:07:10.924 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
