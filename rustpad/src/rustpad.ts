@@ -4,7 +4,7 @@ import type {
   IPosition,
   editor,
 } from "monaco-editor/esm/vs/editor/editor.api";
-import { OpSeq } from "rustpad-wasm";
+import { OpSeq } from "./rustpad-wasm";
 
 /** Options passed in to the Rustpad constructor. */
 export type RustpadOptions = {
